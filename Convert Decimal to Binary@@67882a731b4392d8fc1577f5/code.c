@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+int main() {
     int n,i,flag;
     scanf("%d",&n);
     for(i=31;i>=0;i--){
