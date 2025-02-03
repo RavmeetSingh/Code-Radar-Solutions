@@ -6,5 +6,6 @@ int main(){
     b = b ^ a;
     a = a ^ b;
     printf("%d%d",a,b);
+    
     return 0;
 }
