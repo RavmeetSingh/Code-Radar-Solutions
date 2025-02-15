@@ -1,12 +1,15 @@
 #include <stdio.h>
-int main(){
+
+int main() {
     int a;
-    scanf("%d",&a);
-    if(a%5==0 || a%11==0)
-    printf("Divisible");
-    else
-    printf("Not Divisible");
-   
-   
+    scanf("%d", &a);
+
+    // Check divisibility by 5 or 11 using modulus operator
+    if (a % 5 == 0 || a % 11 == 0) {
+        printf("Divisible\n");
+    } else {
+        printf("Not Divisible\n");
+    }
+
     return 0;
 }
