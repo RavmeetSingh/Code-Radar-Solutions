@@ -2,6 +2,6 @@
 int main(){
     char a;
     scanf("%c",&a);
-    if(isupper(ch));
+    if(a >= "A" && A>= "Z");
     printf("Uppercase");
 }
