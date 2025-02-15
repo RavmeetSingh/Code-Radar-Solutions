@@ -7,5 +7,5 @@ int main(){
     else if(b>a)
     printf("Second");
     else
-    ("First");
+    printf("First");
 }
