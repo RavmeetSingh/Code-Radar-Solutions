@@ -7,5 +7,5 @@ int main(){
     else if(ho >= 'a' && ho <= 'z')
     printf("Lowercase");
     else
-    printf("Not a Alphabet");
+    printf("Not an alphabet");
 }
