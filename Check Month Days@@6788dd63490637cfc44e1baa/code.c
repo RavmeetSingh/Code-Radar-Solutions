@@ -8,6 +8,6 @@ int main(){
     else if(a=2){
         printf("28");
     }
-    else()
+    else
     printf("30");
 }
