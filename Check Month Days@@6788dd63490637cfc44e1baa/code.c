@@ -9,5 +9,5 @@ int main(){
         printf("28");
     }
     else
-    printf("30");
+    printf("Invalid month");
 }
