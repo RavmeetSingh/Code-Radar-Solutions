@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    char n;
+    char n,A,B,C,D,F;
     scanf("%c",&n);
     if(n = A)
     printf("Excellent");
